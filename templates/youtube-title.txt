@@ -1,0 +1,6 @@
+TITLE TEMPLATE
+
+[MAIN HOOK] | [GENRE / FORMAT] [YEAR] | [MOOD / USE CASE] | [OPTIONAL CTA]
+
+Example:
+Hip-Hop & R&B Mix 2026 | Best Late Night Driving Songs | Bass Boosted Edits
