@@ -1,0 +1,11 @@
+PRIMARY KEYWORDS
+[primary keyword]
+[secondary keyword]
+[long-tail keyword]
+
+RELATED TERMS
+[mood]
+[activity]
+[genre]
+[year]
+[target audience]
